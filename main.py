@@ -7,3 +7,4 @@ for i in range(height):
 print((' ' * height) + '|')
 print()
 print()
+print()
