@@ -6,3 +6,4 @@ for i in range(height):
     stars += 2
 print((' ' * height) + '|')
 print()
+print()
